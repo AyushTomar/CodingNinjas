@@ -1,4 +1,12 @@
-To build the project : npm i
-To start the project : npm start
+# introduction
+- To build the project : npm i
+- To start the project : npm start
 
-Hosted on port : 80
+# Technologies used
+- Node.js
+- Express
+- MongoDB
+
+
+# Hosting Link
+- Link : https://hospitalapi-ixlz.onrender.com
